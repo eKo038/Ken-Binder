@@ -1,0 +1,11 @@
+EKO KENPACHI – UPDATE-VERLAUF
+
+v1.0.3
+- Automatischer Updater verbessert
+- SHA-256-Pruefung und Neustart
+
+v1.0.2
+- Erster Auto-Updater
+
+v1.0.1
+- GitHub-Update-Pruefung
