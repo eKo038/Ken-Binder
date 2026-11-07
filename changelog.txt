@@ -1,5 +1,8 @@
 EKO KENPACHI – UPDATE-VERLAUF
 
+v1.0.4
+Bugfix
+
 v1.0.3
 - Automatischer Updater verbessert
 - SHA-256-Pruefung und Neustart
