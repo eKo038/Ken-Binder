@@ -1,5 +1,8 @@
 EKO KENPACHI – UPDATE-VERLAUF
 
+v1.0.6
+Hotfix
+
 v1.0.5
 Msg Länge anpasssung
 
